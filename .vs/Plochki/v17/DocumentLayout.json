@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming\\Plochki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|f:\\programming\\plochki\\plochki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|solutionrelative:plochki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|f:\\programming\\plochki\\plochki\\controllers\\plochkicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|solutionrelative:plochki\\controllers\\plochkicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|f:\\programming\\plochki\\plochki\\models\\plochkimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|solutionrelative:plochki\\models\\plochkimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|f:\\programming\\plochki\\plochki\\views\\plochkidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081383AD-7819-40B8-B7B3-D617940BC831}|Plochki\\Plochki.csproj|solutionrelative:plochki\\views\\plochkidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlochkiController.cs",
+              "DocumentMoniker": "F:\\Programming\\Plochki\\Plochki\\Controllers\\PlochkiController.cs",
+              "RelativeDocumentMoniker": "Plochki\\Controllers\\PlochkiController.cs",
+              "ToolTip": "F:\\Programming\\Plochki\\Plochki\\Controllers\\PlochkiController.cs",
+              "RelativeToolTip": "Plochki\\Controllers\\PlochkiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:54:37.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlochkiDisplay.cs",
+              "DocumentMoniker": "F:\\Programming\\Plochki\\Plochki\\Views\\PlochkiDisplay.cs",
+              "RelativeDocumentMoniker": "Plochki\\Views\\PlochkiDisplay.cs",
+              "ToolTip": "F:\\Programming\\Plochki\\Plochki\\Views\\PlochkiDisplay.cs",
+              "RelativeToolTip": "Plochki\\Views\\PlochkiDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:48:18.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlochkiModel.cs",
+              "DocumentMoniker": "F:\\Programming\\Plochki\\Plochki\\Models\\PlochkiModel.cs",
+              "RelativeDocumentMoniker": "Plochki\\Models\\PlochkiModel.cs",
+              "ToolTip": "F:\\Programming\\Plochki\\Plochki\\Models\\PlochkiModel.cs",
+              "RelativeToolTip": "Plochki\\Models\\PlochkiModel.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:39:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Programming\\Plochki\\Plochki\\Program.cs",
+              "RelativeDocumentMoniker": "Plochki\\Program.cs",
+              "ToolTip": "F:\\Programming\\Plochki\\Plochki\\Program.cs",
+              "RelativeToolTip": "Plochki\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T07:37:35.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

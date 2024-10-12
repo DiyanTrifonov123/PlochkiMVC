@@ -1,0 +1,7 @@
+F:\Programming\Plochki\Plochki\bin\Debug\Plochki.exe.config
+F:\Programming\Plochki\Plochki\bin\Debug\Plochki.exe
+F:\Programming\Plochki\Plochki\bin\Debug\Plochki.pdb
+F:\Programming\Plochki\Plochki\obj\Debug\Plochki.csproj.AssemblyReference.cache
+F:\Programming\Plochki\Plochki\obj\Debug\Plochki.csproj.CoreCompileInputs.cache
+F:\Programming\Plochki\Plochki\obj\Debug\Plochki.exe
+F:\Programming\Plochki\Plochki\obj\Debug\Plochki.pdb
